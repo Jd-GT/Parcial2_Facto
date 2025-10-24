@@ -1,0 +1,1 @@
+Simplemente seria agregar de forma independiente otro archivo y estos se comunicaran mediante a peticiones entonces el porgrama del factorial corre en el puerto 5000 y el nuevo en el 5001, entonces cada uno hace su funcion y si deja de funcionar alguno no se vera perjudicado el otro microservicio
